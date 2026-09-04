@@ -1,0 +1,288 @@
+{
+ "purepu": [
+  {
+   "file": "purepu_2019-10-10.jpg",
+   "date": "2019-10-10",
+   "cloudPct": 4.8,
+   "sceneId": "S2B_45RUM_20191010_1_L2A",
+   "platform": "sentinel-2b",
+   "bboxDeg": [
+    85.6267,
+    28.3826,
+    85.6667,
+    28.4226
+   ],
+   "url": "/__l5e/assets-v1/fd79ec57-6a73-43e6-a615-5d28e00f53f8/purepu_2019-10-10.jpg"
+  },
+  {
+   "file": "purepu_2022-09-29.jpg",
+   "date": "2022-09-29",
+   "cloudPct": 16.2,
+   "sceneId": "S2A_45RUM_20220929_0_L2A",
+   "platform": "sentinel-2a",
+   "bboxDeg": [
+    85.6267,
+    28.3826,
+    85.6667,
+    28.4226
+   ],
+   "url": "/__l5e/assets-v1/e82ada3e-6f6b-4def-80b1-000a187c8d18/purepu_2022-09-29.jpg"
+  },
+  {
+   "file": "purepu_2023-07-09.jpg",
+   "date": "2023-07-09",
+   "cloudPct": 57.3,
+   "sceneId": "S2A_45RUM_20230709_0_L2A",
+   "platform": "sentinel-2a",
+   "bboxDeg": [
+    85.6267,
+    28.3826,
+    85.6667,
+    28.4226
+   ],
+   "url": "/__l5e/assets-v1/d08b3c8a-9c75-4730-bc6e-d7177a836ca0/purepu_2023-07-09.jpg"
+  },
+  {
+   "file": "purepu_2023-07-21.jpg",
+   "date": "2023-07-21",
+   "cloudPct": 59.9,
+   "sceneId": "S2B_45RUM_20230721_0_L2A",
+   "platform": "sentinel-2b",
+   "bboxDeg": [
+    85.6267,
+    28.3826,
+    85.6667,
+    28.4226
+   ],
+   "url": "/__l5e/assets-v1/8127f592-27a0-4cc0-88ec-1a25efbadae9/purepu_2023-07-21.jpg"
+  },
+  {
+   "file": "purepu_2024-09-18.jpg",
+   "date": "2024-09-18",
+   "cloudPct": 10.4,
+   "sceneId": "S2A_45RUM_20240918_0_L2A",
+   "platform": "sentinel-2a",
+   "bboxDeg": [
+    85.6267,
+    28.3826,
+    85.6667,
+    28.4226
+   ],
+   "url": "/__l5e/assets-v1/07efa2ac-87b7-4b85-81d3-0adfad782efb/purepu_2024-09-18.jpg"
+  },
+  {
+   "file": "purepu_2025-07-05.jpg",
+   "date": "2025-07-05",
+   "cloudPct": 21.5,
+   "sceneId": "S2C_45RUM_20250705_0_L2A",
+   "platform": "sentinel-2c",
+   "bboxDeg": [
+    85.6267,
+    28.3826,
+    85.6667,
+    28.4226
+   ],
+   "url": "/__l5e/assets-v1/47188cee-af55-4319-8706-a41b3899f7b5/purepu_2025-07-05.jpg"
+  },
+  {
+   "file": "purepu_2025-07-08.jpg",
+   "date": "2025-07-08",
+   "cloudPct": 54.1,
+   "sceneId": "S2C_45RUM_20250708_0_L2A",
+   "platform": "sentinel-2c",
+   "bboxDeg": [
+    85.6267,
+    28.3826,
+    85.6667,
+    28.4226
+   ],
+   "url": "/__l5e/assets-v1/2057683e-a57d-40a9-b140-62e94b422f55/purepu_2025-07-08.jpg"
+  },
+  {
+   "file": "purepu_2026-05-11.jpg",
+   "date": "2026-05-11",
+   "cloudPct": 16.1,
+   "sceneId": "S2C_45RUM_20260511_0_L2A",
+   "platform": "sentinel-2c",
+   "bboxDeg": [
+    85.6267,
+    28.3826,
+    85.6667,
+    28.4226
+   ],
+   "url": "/__l5e/assets-v1/6417ba26-8838-4c21-97fa-dc0877edaaff/purepu_2026-05-11.jpg"
+  }
+ ],
+ "langtang": [
+  {
+   "file": "langtang_2019-11-17.jpg",
+   "date": "2019-11-17",
+   "cloudPct": 0.3,
+   "sceneId": "S2A_45RUM_20191117_1_L2A",
+   "platform": "sentinel-2a",
+   "bboxDeg": [
+    85.5281,
+    28.1831,
+    85.5881,
+    28.2431
+   ],
+   "url": "/__l5e/assets-v1/c83753d6-00bc-4273-b4cc-2702b37f21f2/langtang_2019-11-17.jpg"
+  },
+  {
+   "file": "langtang_2022-10-17.jpg",
+   "date": "2022-10-17",
+   "cloudPct": 0.0,
+   "sceneId": "S2B_45RUM_20221017_1_L2A",
+   "platform": "sentinel-2b",
+   "bboxDeg": [
+    85.5281,
+    28.1831,
+    85.5881,
+    28.2431
+   ],
+   "url": "/__l5e/assets-v1/327e7769-9e5f-4150-b163-1290c950e81a/langtang_2022-10-17.jpg"
+  },
+  {
+   "file": "langtang_2024-11-15.jpg",
+   "date": "2024-11-15",
+   "cloudPct": 0.2,
+   "sceneId": "S2B_45RUM_20241115_0_L2A",
+   "platform": "sentinel-2b",
+   "bboxDeg": [
+    85.5281,
+    28.1831,
+    85.5881,
+    28.2431
+   ],
+   "url": "/__l5e/assets-v1/7b7adf3d-c58c-4fd1-b2e2-f4df445fcd40/langtang_2024-11-15.jpg"
+  },
+  {
+   "file": "langtang_2025-11-17.jpg",
+   "date": "2025-11-17",
+   "cloudPct": 0.1,
+   "sceneId": "S2B_45RUM_20251117_0_L2A",
+   "platform": "sentinel-2b",
+   "bboxDeg": [
+    85.5281,
+    28.1831,
+    85.5881,
+    28.2431
+   ],
+   "url": "/__l5e/assets-v1/50377eae-91d1-401b-9203-6f43ea04c687/langtang_2025-11-17.jpg"
+  },
+  {
+   "file": "langtang_2026-04-24.jpg",
+   "date": "2026-04-24",
+   "cloudPct": 4.2,
+   "sceneId": "S2C_45RUM_20260424_0_L2A",
+   "platform": "sentinel-2c",
+   "bboxDeg": [
+    85.5281,
+    28.1831,
+    85.5881,
+    28.2431
+   ],
+   "url": "/__l5e/assets-v1/513b0dfd-e8b7-4e1e-8be0-0478843f244d/langtang_2026-04-24.jpg"
+  }
+ ],
+ "rasuwagadhi": [
+  {
+   "file": "rasuwagadhi_2019-11-12.jpg",
+   "date": "2019-11-12",
+   "cloudPct": 0.4,
+   "sceneId": "S2B_45RUM_20191112_1_L2A",
+   "platform": "sentinel-2b",
+   "bboxDeg": [
+    85.3489,
+    28.2489,
+    85.4089,
+    28.3089
+   ],
+   "url": "/__l5e/assets-v1/b1bdb459-2ce6-4d31-884e-12c97fbd1152/rasuwagadhi_2019-11-12.jpg"
+  },
+  {
+   "file": "rasuwagadhi_2022-10-17.jpg",
+   "date": "2022-10-17",
+   "cloudPct": 0.0,
+   "sceneId": "S2B_45RUM_20221017_1_L2A",
+   "platform": "sentinel-2b",
+   "bboxDeg": [
+    85.3489,
+    28.2489,
+    85.4089,
+    28.3089
+   ],
+   "url": "/__l5e/assets-v1/303a404b-e614-4bfd-bb21-03e408288597/rasuwagadhi_2022-10-17.jpg"
+  },
+  {
+   "file": "rasuwagadhi_2024-11-15.jpg",
+   "date": "2024-11-15",
+   "cloudPct": 0.2,
+   "sceneId": "S2B_45RUM_20241115_0_L2A",
+   "platform": "sentinel-2b",
+   "bboxDeg": [
+    85.3489,
+    28.2489,
+    85.4089,
+    28.3089
+   ],
+   "url": "/__l5e/assets-v1/6ed09596-2961-4f2a-b063-3ee34ffc8c63/rasuwagadhi_2024-11-15.jpg"
+  },
+  {
+   "file": "rasuwagadhi_2025-07-03.jpg",
+   "date": "2025-07-03",
+   "cloudPct": 78.3,
+   "sceneId": "S2B_45RUM_20250703_0_L2A",
+   "platform": "sentinel-2b",
+   "bboxDeg": [
+    85.3489,
+    28.2489,
+    85.4089,
+    28.3089
+   ],
+   "url": "/__l5e/assets-v1/7b84f3f9-591d-4ccc-a8cc-6dace498b3fe/rasuwagadhi_2025-07-03.jpg"
+  },
+  {
+   "file": "rasuwagadhi_2025-07-13.jpg",
+   "date": "2025-07-13",
+   "cloudPct": 67.6,
+   "sceneId": "S2B_45RUM_20250713_0_L2A",
+   "platform": "sentinel-2b",
+   "bboxDeg": [
+    85.3489,
+    28.2489,
+    85.4089,
+    28.3089
+   ],
+   "url": "/__l5e/assets-v1/bf27b619-51e0-4331-9d1c-c10f1f960549/rasuwagadhi_2025-07-13.jpg"
+  },
+  {
+   "file": "rasuwagadhi_2025-11-10.jpg",
+   "date": "2025-11-10",
+   "cloudPct": 0.1,
+   "sceneId": "S2B_45RUM_20251110_0_L2A",
+   "platform": "sentinel-2b",
+   "bboxDeg": [
+    85.3489,
+    28.2489,
+    85.4089,
+    28.3089
+   ],
+   "url": "/__l5e/assets-v1/a866494f-e071-4cfd-886f-dbf67b8c919a/rasuwagadhi_2025-11-10.jpg"
+  },
+  {
+   "file": "rasuwagadhi_2026-04-24.jpg",
+   "date": "2026-04-24",
+   "cloudPct": 4.2,
+   "sceneId": "S2C_45RUM_20260424_0_L2A",
+   "platform": "sentinel-2c",
+   "bboxDeg": [
+    85.3489,
+    28.2489,
+    85.4089,
+    28.3089
+   ],
+   "url": "/__l5e/assets-v1/a681ebb9-8946-4ed4-8fc7-a6b2373880f2/rasuwagadhi_2026-04-24.jpg"
+  }
+ ]
+}
