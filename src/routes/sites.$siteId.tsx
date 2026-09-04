@@ -20,8 +20,8 @@ import ClimateChart from "@/components/ClimateChart";
 export const Route = createFileRoute("/sites/$siteId")({
   validateSearch: (search): { a?: string; b?: string } => {
     const next: { a?: string; b?: string } = {};
-    if (typeof search.a === "string") next.a = search.a;
-    if (typeof search.b === "string") next.b = search.b;
+    if (typeof search['a'] === "string") next.a = search['a'];
+    if (typeof search['b'] === "string") next.b = search['b'];
     return next;
   },
   head: ({ params }) => {

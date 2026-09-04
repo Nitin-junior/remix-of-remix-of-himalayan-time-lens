@@ -161,6 +161,20 @@ function SiteHeader() {
               {id.toUpperCase()}
             </Link>
           ))}
+          <Link
+            to="/event"
+            activeProps={{ className: "text-gold" }}
+            className="px-2 py-1 font-mono text-[11px] tracking-wide text-muted-foreground transition hover:text-foreground"
+          >
+            JULY 2025
+          </Link>
+          <Link
+            to="/methods"
+            activeProps={{ className: "text-gold" }}
+            className="px-2 py-1 font-mono text-[11px] tracking-wide text-muted-foreground transition hover:text-foreground"
+          >
+            METHODS
+          </Link>
         </nav>
       </div>
     </header>
